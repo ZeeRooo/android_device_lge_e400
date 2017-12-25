@@ -1,3 +1,5 @@
+**DEPRECATED, PLEASE LOOK Project reLif3**
+
 Device config for CyanogenMod LGE E400
 
 Working.... 
